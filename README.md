@@ -1,4 +1,4 @@
-# BYTEUPRISE_WD_01
+# BYTEUPRISE_Cyber Security_01
 
 This is Project No-1 ===>
 This Task is about *****************************Password Complexity Checker *******************************
